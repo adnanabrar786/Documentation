@@ -1,8 +1,6 @@
-
-
 responsive image in next js
-
 https://dev.to/felixhaeberle/responsive-fix-for-the-next-js-image-component-1351
+
 
 responsive image in next js stackoverflow Solution 
 https://stackoverflow.com/questions/65169431/how-to-set-the-next-image-component-to-100-height/68838835#68838835

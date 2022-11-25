@@ -1,8 +1,3 @@
 programiz.com
 hackerrank javascript
-
-
-
-
-
 sanity.io

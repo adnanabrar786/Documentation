@@ -1,5 +1,0 @@
-
-window + shift + s
-window + right
-
-
