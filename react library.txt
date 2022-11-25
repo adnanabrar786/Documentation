@@ -1,0 +1,3 @@
+moment.js
+react slick npm
+react-toastify - npm

@@ -1,0 +1,6 @@
+::::::::::::::::   VsCode  Shortcut keys ::::::::::::
+
+*) Alt + arrowup (to line up)
+*) ctrl + F5 (for Searching in VsCode) 
+*) ctrl + f (find in file)
+*) Alt + left click (multiple Line selected)

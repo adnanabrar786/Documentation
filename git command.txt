@@ -1,0 +1,36 @@
+git branch -a
+git branch
+git pull origin main
+
+git checkout main
+git merge jeff/feature2
+
+
+
+git command
+ git clone https://github.com/github/training-kit.git
+ git branch (check branch)
+ git branch features (add branch)
+ git chechout features (features branch mai a gaey)
+ git status (show all changes)
+ git add -A (add all changes)
+ git commit 
+ git push  or git push --set-upstream origin features
+ git commit -m "added news modal"
+
+ignore msg 
+ :wq
+
+pull request
+git checkout master
+git pull
+
+merge
+git merge master
+
+git add .
+git commit -m "commit"
+git push
+
+git pull
+git pull origin

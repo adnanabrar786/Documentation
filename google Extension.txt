@@ -1,0 +1,27 @@
+
+*) Greeper (extension)
+   https://chrome.google.com/webstore/detail/grepper/amaaokahonnfjjemodnpmeenfpnnbkco?hl=en
+
+*) Font Inspector (extension)
+   https://chrome.google.com/webstore/detail/font-inspector/kgekdppfhdacjmnogfkklnljiglcphip?hl=en
+
+*) React Developer Tools (extension)
+   https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en
+
+*) Redux DevTools (extension)
+   https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en
+
+*) JSON Formatter (extension)
+   https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en
+
+*) Measure-it (extension)
+   https://chrome.google.com/webstore/detail/measure-it/jocbgkoackihphodedlefohapackjmna?hl=en
+
+*) Apex Screen Recorder & Screenshot Master
+   https://chrome.google.com/webstore/detail/apex-screen-recorder-scre/igkkmokkmlbkkgdnkkancbonkbbmkioc
+
+*) ColorZilla
+  https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=enColorZilla
+
+*) Color by Fardos - Color Picker
+   https://chrome.google.com/webstore/detail/color-by-fardos-color-pic/iibpgpkhpfggipbacjfeijkloidhmiei
