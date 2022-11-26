@@ -33,6 +33,8 @@
 *) Vue 3 Support - All In One
 *) Vue sort
 *) vue-beautify2
+*) Tailwind CSS IntelliSense
+*) Import Cost
 
 
 
@@ -41,20 +43,20 @@
 1 – GitLens
 2 – Tailwind CSS IntelliSense
 3 – ES7 React/Redux/GraphQL/React-Native snippets
-4 – GitHub Copilot
+4 – GitHub Copilot  >>>>>>>>>>>  (look)
 5 – JavaScript (ES6) code snippets
-6 – Code Snap
+6 – Code Snap >>>>>>>>>>>>>>>>>  (not found)
 7 – Prettier
-8 – Live Share
+8 – Live Share >>>>>>>>>>>>>>>>  (look)
 9 – Auto Rename Tag
-10 – VS Code Icons
+10 – VS Code Icons >>>>>>>>>>>>  (useful look)
 Bonus Extensions
 1) TODO Highlight
 2) Import Cost
-3) React Native Tools
+3) React Native Tools (not valid this time for me)
 4) Path Intellisense
 5) Live Sass Compiler
-6) Markdown Preview Enhanced
+6) Markdown Preview Enhanced (not valid this time for me)
 
 
 
