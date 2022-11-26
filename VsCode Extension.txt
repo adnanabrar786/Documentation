@@ -36,3 +36,25 @@
 
 
 
+
+
+1 – GitLens
+2 – Tailwind CSS IntelliSense
+3 – ES7 React/Redux/GraphQL/React-Native snippets
+4 – GitHub Copilot
+5 – JavaScript (ES6) code snippets
+6 – Code Snap
+7 – Prettier
+8 – Live Share
+9 – Auto Rename Tag
+10 – VS Code Icons
+Bonus Extensions
+1) TODO Highlight
+2) Import Cost
+3) React Native Tools
+4) Path Intellisense
+5) Live Sass Compiler
+6) Markdown Preview Enhanced
+
+
+
