@@ -2,8 +2,11 @@
 
 *) props
 *) useState
+*) useRef
 *) useEffect
+*) useMemo
 *) useContext
 *) usereducer
 *) reduxtookit
+*) useCallback
 

@@ -3,3 +3,5 @@ hackerrank javascript
 sanity.io
 
 https://www.jschallenger.com/
+
+https://www.w3docs.com/
