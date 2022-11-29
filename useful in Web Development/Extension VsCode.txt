@@ -26,6 +26,7 @@
 *) Reactjs code snippets
 *) SCSS Formatter
 *) Simple React Snippets
+*) React Router Snippets
 :::::::::::::::::::::::  Disable Extension :::::::::::::::::
 *) Dracula Official
 *) ESLint
