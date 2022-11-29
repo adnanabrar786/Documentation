@@ -6,7 +6,7 @@
 *) useEffect
 *) useMemo
 *) useContext
-*) usereducer
-*) reduxtookit
-*) useCallback
-
+*) usereducer  ---
+*) reduxtookit ---
+*) useCallback ---
+*)react router dom ---
