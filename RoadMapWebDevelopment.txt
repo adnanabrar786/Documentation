@@ -1,11 +1,12 @@
 Road Map
 1) HTML
 2) css
-3) Scss
+3) Sass or scss/ Bootstrap/ Tailwindcss/ MaterialUI
 4) javaScript
 5) ES6
 6) React
-7) Redux
-7) Nodejs
-8) Express js
-9) Mongodb
+7) React Router dom
+8) Redux ---
+9) Nodejs ---
+10) Express js ---
+11) Mongodb ---
