@@ -1,7 +1,3 @@
-ToDo app with localStorage ::::::::
-https://www.youtube.com/watch?v=7oFsrSEWUQU
-
-
 full stack reduxtoolkit ::::::::
 https://www.youtube.com/watch?v=mB8ajdvRnC0
 
