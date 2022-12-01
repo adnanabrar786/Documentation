@@ -4,9 +4,9 @@
 *) useState
 *) useRef
 *) useEffect
-*) useMemo
+*) useMemo ---
 *) useContext
 *) usereducer  ---
 *) reduxtookit ---
 *) useCallback ---
-*)react router dom ---
+*) react router dom 

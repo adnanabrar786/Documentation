@@ -1,19 +1,22 @@
-Remaining Project
+ToDo app with localStorage ::::::::
 https://www.youtube.com/watch?v=7oFsrSEWUQU
 
 
-full stack reduxtoolkit
+full stack reduxtoolkit ::::::::
 https://www.youtube.com/watch?v=mB8ajdvRnC0
+
+
+react crud operation important do this first ::::::::
+https://www.youtube.com/watch?v=5PfvoAj-SMk&list=PLbGui_ZYuhijDDvgZ04JAwWCt-x1c2I0g&index=6
+
+React Redux with Redux Toolkit Complete in one Video (Hindi) ::::::::
+https://www.youtube.com/watch?v=i3MWtUchXxc
 
 
 Blog App ::::::::
 https://www.youtube.com/watch?v=-f1iAsrkyB0 (reduxtookit)
 
 
-React Redux with Redux Toolkit Complete in one Video (Hindi)
-https://www.youtube.com/watch?v=i3MWtUchXxc
 
 
 
-react crud operation important do this first
-https://www.youtube.com/watch?v=5PfvoAj-SMk&list=PLbGui_ZYuhijDDvgZ04JAwWCt-x1c2I0g&index=6
