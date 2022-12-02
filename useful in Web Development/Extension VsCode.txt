@@ -27,6 +27,7 @@
 *) SCSS Formatter
 *) Simple React Snippets
 *) React Router Snippets
+*) Auto Import
 :::::::::::::::::::::::  Disable Extension :::::::::::::::::
 *) Dracula Official
 *) ESLint
