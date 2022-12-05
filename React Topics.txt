@@ -7,8 +7,12 @@
 *) useMemo
 *) useCallback 
 *) useContext
-*) Pass Data From Child to Parent 
-https://www.youtube.com/watch?v=NMerkZt7iVw&t=3s
+*) Pass Data From Child to Parent in react.js  | or |   Lifting State Up in React.js
 *) usereducer  ---
 *) reduxtookit ---
 *) react router dom 
+
+::::::::::::::::    Details   ::::::::::::::::::::
+
+*) Pass Data From Child to Parent in react.js  | or |   Lifting State Up in React.js
+https://www.youtube.com/watch?v=NMerkZt7iVw&t=3s
