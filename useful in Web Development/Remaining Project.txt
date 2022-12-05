@@ -8,6 +8,9 @@ https://www.youtube.com/watch?v=5PfvoAj-SMk&list=PLbGui_ZYuhijDDvgZ04JAwWCt-x1c2
 React Redux with Redux Toolkit Complete in one Video (Hindi) ::::::::
 https://www.youtube.com/watch?v=i3MWtUchXxc
 
+Redux Toolkit  crud ::::::::
+https://www.youtube.com/watch?v=syw-wm9uP_g
+
 
 Blog App ::::::::
 https://www.youtube.com/watch?v=-f1iAsrkyB0 (reduxtookit)
