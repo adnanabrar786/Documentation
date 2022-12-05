@@ -21,6 +21,9 @@ https://www.youtube.com/watch?v=syw-wm9uP_g
 Blog App ::::::::
 https://www.youtube.com/watch?v=-f1iAsrkyB0 (reduxtookit)
 
+Lifting State Up in React.js in Hindi | Pass Data From Child to Parent in react.js in Hindi #2022
+https://www.youtube.com/watch?v=NMerkZt7iVw&t=3s
+
 
 
 

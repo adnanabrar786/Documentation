@@ -7,6 +7,8 @@
 *) useMemo
 *) useCallback 
 *) useContext
+*) Pass Data From Child to Parent 
+https://www.youtube.com/watch?v=NMerkZt7iVw&t=3s
 *) usereducer  ---
 *) reduxtookit ---
 *) react router dom 
