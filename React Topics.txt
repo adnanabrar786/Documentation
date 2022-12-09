@@ -1,5 +1,8 @@
 ::::::::::::::::   React Topics    ::::::::::::::::::::
 
+**) JSX
+**) babel
+**) Webpack
 *) props
 *) useState
 *) useRef
@@ -16,3 +19,14 @@
 
 *) Pass Data From Child to Parent in react.js  | or |   Lifting State Up in React.js
 https://www.youtube.com/watch?v=NMerkZt7iVw&t=3s
+
+>>> JSX :::::::::
+   it allow html in javaScript
+
+>>> babel:::::::::
+   it is a compiler who convert React code into javaScript
+
+ >>> Webpack:::::::::
+    it is a Module who manage dependency 
+    ar  
+    https://www.youtube.com/watch?v=QrvE81XtzcE
