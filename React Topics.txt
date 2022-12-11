@@ -13,6 +13,7 @@
 *) Pass Data From Child to Parent in react.js  | or |   Lifting State Up in React.js
 *) usereducer  ---
 *) reduxtookit ---
+*) redux persists ---
 *) react router dom 
 
 ::::::::::::::::    Details   ::::::::::::::::::::
