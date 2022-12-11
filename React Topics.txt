@@ -26,7 +26,6 @@ https://www.youtube.com/watch?v=NMerkZt7iVw&t=3s
 >>> babel:::::::::
    it is a compiler who convert React code into javaScript
 
- >>> Webpack:::::::::
+>>> Webpack:::::::::
     it is a Module who manage dependency 
-    ar  
-    https://www.youtube.com/watch?v=QrvE81XtzcE
+    and act it according to give situation

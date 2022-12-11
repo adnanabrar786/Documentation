@@ -1,21 +1,12 @@
-full stack reduxtoolkit ::::::::
-https://www.youtube.com/watch?v=mB8ajdvRnC0
+Redux Toolkit  crud :::::::: (updtae issue) 
+https://www.youtube.com/watch?v=syw-wm9uP_g
 
-
-react crud operation  ::::::::  ( just look only )
-https://www.youtube.com/watch?v=5PfvoAj-SMk&list=PLbGui_ZYuhijDDvgZ04JAwWCt-x1c2I0g&index=6
-
-
-React Redux with Redux Toolkit Complete in one Video (Hindi) :::::::: ( just look only )
-https://www.youtube.com/watch?v=i3MWtUchXxc
-
-
-Learn Redux Toolkit in one video 🔥🔥🚀 ( Hindi )
+Learn Redux Toolkit in one video 🔥🔥🚀 ( Hindi ) ::::::::
 https://www.youtube.com/watch?v=XwGNhppX4as
 
 
-Redux Toolkit  crud ::::::::
-https://www.youtube.com/watch?v=syw-wm9uP_g
+API Call and CRUD using Redux Toolkit RTK Query Complete in One Video (urdu) ::::::::
+https://www.youtube.com/watch?v=SKyEUS4heS0
 
 
 Blog App ::::::::
@@ -23,6 +14,9 @@ https://www.youtube.com/watch?v=-f1iAsrkyB0 (reduxtookit)
 
 Dashboard ::::::::
 https://www.youtube.com/watch?v=yKV1IGahXqA
+
+
+
 
 
 
