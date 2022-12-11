@@ -9,9 +9,6 @@ API Call and CRUD using Redux Toolkit RTK Query Complete in One Video (urdu) :::
 https://www.youtube.com/watch?v=SKyEUS4heS0
 
 
-Blog App ::::::::
-https://www.youtube.com/watch?v=-f1iAsrkyB0 (reduxtookit)
-
 Dashboard ::::::::
 https://www.youtube.com/watch?v=yKV1IGahXqA
 
