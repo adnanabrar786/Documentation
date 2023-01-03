@@ -1,16 +1,19 @@
 Road Map
 1) HTML
-2) css
-3) Sass or scss/ Bootstrap/ Tailwindcss/ MaterialUI
-4) javaScript
-5) ES6
-6) React
-7) React Router dom
-8) Redux ---
-9) Nodejs ---
-10) Express js ---
-11) Mongodb ---
-12) React Native ---
+2-i) css
+2-ii)  Sass or scss
+2-iii)  Bootstrap
+2-iv) Tailwindcss
+2-v) MaterialUI
+3) javaScript
+4) ES6
+5) React
+6) React Router dom
+7) Redux ---
+8) Nodejs ---
+9) Express js ---
+10) Mongodb ---
+11) React Native ---
 
 
 Road Map of javaScript
